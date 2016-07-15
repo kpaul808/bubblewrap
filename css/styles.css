@@ -1,0 +1,59 @@
+.red{
+	height: 30px;
+	width: 30px;
+	background-color: red;
+	opacity: 0;
+	float: left;
+	border-radius: 100%;
+}
+
+.red:hover{
+	opacity: 1;
+}
+.orange{
+	height: 30px;
+	width: 30px;
+	background-color: orange;
+	opacity: 0;
+	float: left;
+	border-radius: 100%;
+}
+
+.orange:hover{
+	opacity: 1;
+}
+.yellow{
+	height: 30px;
+	width: 30px;
+	background-color: yellow;
+	opacity: 0;
+	float: left;
+	border-radius: 100%;
+}
+
+.greeg{
+	height: 30px;
+	width: 30px;
+	background-color: green;
+	opacity: 0;
+	float: left;
+	border-radius: 100%;
+}
+
+.blue{
+	height: 30px;
+	width: 30px;
+	background-color: blue;
+	opacity: 0;
+	float: left;
+	border-radius: 100%;
+}
+
+.purple{
+	height: 30px;
+	width: 30px;
+	background-color: purple;
+	opacity: 0;
+	float: left;
+	border-radius: 100%;
+}
