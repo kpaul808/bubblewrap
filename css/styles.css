@@ -5,6 +5,7 @@
 	opacity: 0;
 	float: left;
 	border-radius: 100%;
+	display: block;
 }
 
 .red:hover{
@@ -17,6 +18,7 @@
 	opacity: 0;
 	float: left;
 	border-radius: 100%;
+	display: block;
 }
 
 .orange:hover{
@@ -29,6 +31,7 @@
 	opacity: 0;
 	float: left;
 	border-radius: 100%;
+	display: block;
 }
 
 .greeg{
@@ -38,6 +41,7 @@
 	opacity: 0;
 	float: left;
 	border-radius: 100%;
+	display: block;
 }
 
 .blue{
@@ -47,6 +51,7 @@
 	opacity: 0;
 	float: left;
 	border-radius: 100%;
+	display: block;
 }
 
 .purple{
@@ -56,4 +61,5 @@
 	opacity: 0;
 	float: left;
 	border-radius: 100%;
+	display: block;
 }
